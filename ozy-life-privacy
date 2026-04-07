@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cozy Life Planner – Privacy Policy</title>
+  <style>
+    body { font-family: -apple-system, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+    h1 { color: #5a8a6a; }
+    h2 { color: #5a8a6a; margin-top: 32px; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy – Cozy Life Planner</h1>
+  <p><strong>Last updated:</strong> April 7, 2026</p>
+
+  <h2>1. Overview</h2>
+  <p>Cozy Life Planner processes your personal data with respect for your privacy. All data is stored locally on your device and is never sent to any server.</p>
+
+  <h2>2. Data Collected</h2>
+  <p>The app stores the following data <strong>only on your device</strong>:</p>
+  <ul>
+    <li>Profile information (username, level, XP)</li>
+    <li>Tasks, habits, and journal entries</li>
+    <li>Mood records and focus sessions</li>
+    <li>Photos added to journal entries</li>
+    <li>Water and sleep tracking data</li>
+  </ul>
+
+  <h2>3. Data Storage</h2>
+  <p>All data is stored encrypted on your device using AES-256 encryption via the Hive database. Your data is <strong>never sent to any server</strong>.</p>
+
+  <h2>4. Third-Party Services</h2>
+  <ul>
+    <li><strong>RevenueCat:</strong> Used for managing Cozy Plus subscriptions. Purchase history is processed by RevenueCat. See <a href="https://www.revenuecat.com/privacy">RevenueCat Privacy Policy</a>.</li>
+    <li><strong>App Store / Play Store:</strong> Platform API used for in-app reviews.</li>
+  </ul>
+
+  <h2>5. Permissions</h2>
+  <ul>
+    <li><strong>Notifications:</strong> Task reminders and daily routines</li>
+    <li><strong>Calendar:</strong> Optional device calendar sync</li>
+    <li><strong>Camera / Photos:</strong> Adding photos to journal entries</li>
+  </ul>
+
+  <h2>6. Data Deletion</h2>
+  <p>All data is deleted when you uninstall the app. You can also manually delete all data from the Settings page.</p>
+
+  <h2>7. Children's Privacy</h2>
+  <p>This app is not intended for children under 13.</p>
+
+  <h2>8. Contact</h2>
+  <p>Questions: <a href="mailto:cozylifeplanner@gmail.com">cozylifeplanner@gmail.com</a></p>
+</body>
+</html>
